@@ -6,5 +6,15 @@ description: A second post that was also updated
 
 this is the second post
 
-| --- | --- | --- |
-| Ciao | Come | Stai |
+## This is Markdown
+
+- Lists
+- **Bold** and *italic*
+- [Links](https://example.com)
+- Images
+- Code blocks
+- And more!
+
+```javascript
+console.log("Hello from plok.sh!");
+```
